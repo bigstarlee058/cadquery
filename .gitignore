@@ -7,7 +7,6 @@ dist/*
 cadquery.egg-info/
 target/*
 .eggs/
-.vscode
 MANIFEST
 out.*
 res?.dxf
@@ -39,3 +38,7 @@ out1.3mf
 out2.3mf
 out3.3mf
 orig.dxf
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
